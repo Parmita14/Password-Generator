@@ -1,7 +1,17 @@
 # Password-Generator
 Technologies used :<br>
-HTML,CSS,Javascript
-Google APIs for font-league spartan
-Angry tools - for Gradient background colour.
-Special logic used :
-Fisher Yates algorithm for shuffling characters randomly in Password.
+<ul>
+  <li>HTML,CSS,Javascript<br>
+</li>
+<li>
+  Google APIs for font-league spartan<br>
+</li>
+  <li>
+    Angry tools - for Gradient background colour.<br>
+  </li>
+</ul>
+
+Special logic used :<br>
+<li>
+  <b><i>Fisher Yates algorithm</b></i>-for shuffling characters randomly in Password.<br>
+</li>
